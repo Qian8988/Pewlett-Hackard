@@ -31,6 +31,10 @@ Module 7 Challenge
 
 Using the ERD created in this module, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
 
+[Employee_Database_Challenge.sql](Queries/Employee_Database_Challenge.sql)
+
+[data_folder.sql]( Queries/data_folder.sql)
+
 Export the Mentorship Eligibility table as mentorship_eligibilty.csv 
 [mentorship_eligibility.csv]( Deliverable2/mentorship_eligibility.csv)
 
